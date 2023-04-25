@@ -47,7 +47,7 @@ class CarInterface(CarInterfaceBase):
     be.type = car.CarState.ButtonEvent.Type.accelCruise
     buttonEvents.append(be)
   
-  # personal change added Gear B for better regenerative braking
+  # personal change added Gear B for high regenerative braking
     events = self.create_common_events(ret,extra_gears=[car.CarState.GearShifter.brake])
 
     if self.CS.lkas_enabled:
