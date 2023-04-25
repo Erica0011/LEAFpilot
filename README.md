@@ -1,3 +1,11 @@
+Warning this is my personal fork of Openpilot for a 2018 Nissan LEAF SL. 
+=======================
+Runnning this on any other car may cause unexpected behavior! 
+=======================
+Do Not Install! 
+=======================
+You have been warned!  
+=======================
 ![](https://i.imgur.com/b0ZyIx5.jpg)
 
 Table of Contents
